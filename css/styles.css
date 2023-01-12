@@ -132,6 +132,10 @@ body {
 /* ------------- MAIN----------*/
 /* -----------TOP SECTION---------- */
 .top {
+    max-width: 1440px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
     background: #2E2F42;
     background-image: linear-gradient(
     rgba(46, 47, 66, 0.7),
